@@ -1,3 +1,5 @@
 A simple Text File
 
 This is a simple Text File created directly into our repository.
+
+We'll use it to learn Github basics.
