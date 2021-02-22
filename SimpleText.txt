@@ -1,4 +1,4 @@
-A simple Text File (Experimental Branch_01)
+A simple Text File (Experimental Branch_01 and Branch_02)
 
 
 
@@ -11,3 +11,5 @@ I'm adding a new line just to do another commit and create a minimum commits his
 After this line we'll learn about Branches.
 
 This is a modification made on Branch_01.
+
+This is a modification made on Branch_02.
