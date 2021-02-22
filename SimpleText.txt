@@ -13,3 +13,5 @@ After this line we'll learn about Branches.
 This is a modification made on Branch_01.
 
 This is a modification made on Branch_02.
+
+This line should be the same modified by Branch_03.
