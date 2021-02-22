@@ -1,4 +1,4 @@
-A simple Text File (Experimental Branch_01 and Branch_02)
+A simple Text File (Experimental Branch_01 and Branch_02 and Branch_03)
 
 
 
@@ -14,4 +14,7 @@ This is a modification made on Branch_01.
 
 This is a modification made on Branch_02.
 
-This line should be the same modified by Branch_03.
+With Branch_03 we'll try to merge Branch_03 and Main both after they've modified the same line.
+
+This line should be the same modified by Branch_03. Infact we had to resolve it manually!!!
+
