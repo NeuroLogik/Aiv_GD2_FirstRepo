@@ -8,4 +8,6 @@ We'll use it to learn Github basics.
 
 I'm adding a new line just to do another commit and create a minimum commits history.
 
+After this line we'll learn about Branches.
+
 This is a modification made on Branch_01.
