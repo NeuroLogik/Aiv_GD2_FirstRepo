@@ -1,4 +1,4 @@
-A simple Text File (Experimental Branch_01)
+A simple Text File (Experimental Branch_01 and Branch_02)
 
 
 
@@ -9,3 +9,5 @@ We'll use it to learn Github basics.
 I'm adding a new line just to do another commit and create a minimum commits history.
 
 This is a modification made on Branch_01.
+
+This is a modification made on Branch_02.
